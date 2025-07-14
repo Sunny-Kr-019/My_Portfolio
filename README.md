@@ -9,13 +9,13 @@ JavaScript
 Bootstrap
 
 🎯 Features:
-Responsive design for all screen sizes
-Skills section with icons and hover effects
-Project cards with descriptions and images
-Modal popup for project details
-Education and Contact sections
-Downloadable CV button
-Smooth scroll and basic animations
+Responsive design for all screen sizes,
+Skills section with icons and hover effects,
+Project cards with descriptions and images,
+Modal popup for project details,
+Education and Contact sections,
+Downloadable CV button,
+Smooth scroll and basic animations.
 
 📌 Live Demo:
 [https://sunny-kr-019.netlify.app/]
